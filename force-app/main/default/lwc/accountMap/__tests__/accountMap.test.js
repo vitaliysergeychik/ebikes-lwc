@@ -1,4 +1,5 @@
-import { createElement } from 'lwc';
+import { createElement } from '@lwc/runtime';
+
 import AccountMap from 'c/accountMap';
 import { getRecord } from 'lightning/uiRecordApi';
 

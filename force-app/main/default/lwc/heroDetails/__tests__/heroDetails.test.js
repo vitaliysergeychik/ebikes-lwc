@@ -1,4 +1,5 @@
-import { createElement } from 'lwc';
+import { createElement } from '@lwc/runtime';
+
 import HeroDetails from 'c/heroDetails';
 import getRecordInfo from '@salesforce/apex/ProductRecordInfoController.getRecordInfo';
 

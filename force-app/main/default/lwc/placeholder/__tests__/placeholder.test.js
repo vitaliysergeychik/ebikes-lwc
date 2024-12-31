@@ -1,4 +1,5 @@
-import { createElement } from 'lwc';
+import { createElement } from '@lwc/runtime';
+
 import Placeholder from 'c/placeholder';
 
 describe('c-placeholder', () => {

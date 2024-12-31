@@ -1,4 +1,5 @@
-import { createElement } from 'lwc';
+import { createElement } from '@lwc/runtime';
+
 import ErrorPanel from 'c/errorPanel';
 
 describe('c-error-panel', () => {

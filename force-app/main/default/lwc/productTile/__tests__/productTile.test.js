@@ -1,4 +1,5 @@
-import { createElement } from 'lwc';
+import { createElement } from '@lwc/runtime';
+
 import ProductTile from 'c/productTile';
 
 describe('c-product-tile', () => {

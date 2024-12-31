@@ -1,4 +1,5 @@
-import { createElement } from 'lwc';
+import { createElement } from '@lwc/runtime';
+
 import ProductListItem from 'c/productListItem';
 import { getNavigateCalledWith } from 'lightning/navigation';
 

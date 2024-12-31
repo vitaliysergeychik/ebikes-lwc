@@ -1,4 +1,5 @@
-import { createElement } from 'lwc';
+import { createElement } from '@lwc/runtime';
+
 import Paginator from 'c/paginator';
 
 describe('c-paginator', () => {
